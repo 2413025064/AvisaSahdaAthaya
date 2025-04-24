@@ -49,7 +49,7 @@
 <body>
 
 <header>
-    <h1>Avisa Sahda Athaya</h1>
+    <h1>2413025064_AvisaSahdaAthaya</h1>
     <nav>
         <a href="#about">Tentang</a>
         <a href="#projects">Proyek</a>
@@ -71,11 +71,11 @@
         </li>
         <li>
             <h3>Proyek 2</h3>
-            <p>lingkaran brasenham dan midpoin. Teknologi yang digunakan: [teknologi].</p>
+            <p>lingkaran brasenham dan midpoin. https://youtu.be/CfjLxwk19JY .</p>
         </li>
         <li>
             <h3>Proyek 3</h3>
-            <p>kurva bezier. Teknologi yang digunakan: [teknologi].</p>
+            <p>kurva bezier. https://youtu.be/FMje10RkRGc .</p>
         </li>
     </ul>
 </section>
