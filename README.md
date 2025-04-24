@@ -66,7 +66,7 @@
     <h2>Proyek Saya</h2>
     <ul>
         <li>
-            <h3>Proyek 1 1</h3>
+            <h3>Proyek 1</h3>
             <p>garis brasenham. https://youtu.be/FIuuJQEVkDE?si=QRE3CPAVUBik0U-L .</p>
         </li>
         <li>
