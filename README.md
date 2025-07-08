@@ -77,6 +77,13 @@
             <h3>Proyek 3</h3>
             <p>kurva bezier. https://youtu.be/FMje10RkRGc .</p>
         </li>
+        <li>
+              <h3>Proyek 1</h3>
+            <p>persamaan misteri. (https://drive.google.com/drive/folders/1gzeO2UszzKppIkTfDy0IHoooaw2Jtl1q?usp=drive_link) .</p>
+         </li>
+        <li>
+              <h3>Proyek 2</h3>
+            <p>persamaan misteri. https://docs.google.com/spreadsheets/d/1nPMI0HozyiZ6b7zjZ5qVCSbt3pAGuGNaKdyWn4JHNY4/edit?usp=sharing , https://docs.google.com/spreadsheets/d/1nPMI0HozyiZ6b7zjZ5qVCSbt3pAGuGNaKdyWn4JHNY4/edit?usp=sharing,  .</p>
     </ul>
 </section>
 
