@@ -83,7 +83,7 @@
          </li>
         <li>
               <h3>Proyek 2</h3>
-            <p>persamaan misteri. https://docs.google.com/spreadsheets/d/1nPMI0HozyiZ6b7zjZ5qVCSbt3pAGuGNaKdyWn4JHNY4/edit?usp=sharing , https://docs.google.com/spreadsheets/d/1nPMI0HozyiZ6b7zjZ5qVCSbt3pAGuGNaKdyWn4JHNY4/edit?usp=sharing,  .</p>
+            <p>transformasi 2D. https://drive.google.com/drive/folders/1mwxWDUsKcF6DjgBjjjft2qp0HPGsNbVH?usp=drive_link, https://docs.google.com/spreadsheets/d/1nPMI0HozyiZ6b7zjZ5qVCSbt3pAGuGNaKdyWn4JHNY4/edit?usp=sharing,  .</p>
     </ul>
 </section>
 
